@@ -152,7 +152,7 @@ This repository is not just a collection of exercises — it is a record of my p
 
 ---
 
-## 📌 Final Notes
+##  Final Notes
 
 This project is meant to demonstrate:
 
