@@ -1,0 +1,1 @@
+ls: cannot access '/whatever': No such file or directory
